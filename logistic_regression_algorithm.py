@@ -6,6 +6,9 @@ from sklearn import datasets #load iris data
 import matplotlib.pyplot as plt
 from sklearn.metrics import accuracy_score #til at udregne accuracy 
 
+## test comments
+## test comments
+
 
 def predict(X,B): #calculate linear prediction (ln(odds)) given data matrix X and parameter vector B
 	#linear ln(odds) prediction
